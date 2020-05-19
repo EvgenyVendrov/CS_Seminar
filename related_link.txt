@@ -1,0 +1,8 @@
+1. main aritical itself - 
+https://moodlearn.ariel.ac.il/pluginfile.php/1972582/mod_resource/content/0/Dey1998_Article_ImprovedBoundsForPlanarK-SetsA.pdf
+
+2. on k-convex polygon - 
+https://arxiv.org/pdf/1007.3607.pdf
+
+3. k sets wiki - 
+https://en.wikipedia.org/wiki/K-set_(geometry)
