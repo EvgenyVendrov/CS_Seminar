@@ -13,3 +13,4 @@ https://www.ics.uci.edu/~eppstein/pubs/Epp-PO-97.pdf
 
 5. good explanation about k-sets
 https://adamsheffer.wordpress.com/2017/06/20/the-k-set-problem/
+https://inf.ethz.ch/personal/emo/DoctThesisFiles/wagner03.pdf
