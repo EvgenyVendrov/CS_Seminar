@@ -11,3 +11,5 @@ https://en.wikipedia.org/wiki/K-set_(geometry)
 https://www.ics.uci.edu/~eppstein/pubs/AgaEppGui-FOCS-98.pdf
 https://www.ics.uci.edu/~eppstein/pubs/Epp-PO-97.pdf
 
+5. good explanation about k-sets
+https://adamsheffer.wordpress.com/2017/06/20/the-k-set-problem/
